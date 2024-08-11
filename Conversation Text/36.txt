@@ -1,0 +1,315 @@
+therapist: Barbara Roberts?
+client: Yes. Morning.
+therapist: Hello, there.
+client: Hello.
+therapist: My name's Dr. Betty. I'm one of the new GPs in the practice. First of all, what would you like me to call you?
+client: Well, you can call me Barbara. That'll be fine. Thank you.
+therapist: Okay, that's fine. Okay. So, Barbara, I'm seeing you today, um, but I think it's usually Dr. Brown that sees you, is that right?
+client: Yes, Dr. Brown is my doctor.
+therapist: Okay. What is it that's brought you to see me today?
+client: Well, I've come about my tummy problem. I've got terrible trouble with my stomach and, uh, Dr. Brown just doesn't seem to be able to get to the bottom of it. And I thought perhaps, uh, I'd come and see you to see if you could help.
+therapist: All right. Okay. Can you tell me a bit more about your tummy problems?
+client: Um, well, I-I have this terrible discomfort nearly all the time. Um, it very often feels bloated. I, um, uh, I swing between being constipated and having diarrhea. Um, I have sort of cramping feelings sometimes, and other times it stabs. It's a real stabbing feeling. Um, I often have the urge to go to the toilet and, um, and I pass very smelly wind.
+therapist: All right. So, quite a few symptoms there-
+client: Mm.
+therapist: - and some of them sound-
+client: Yes.
+therapist: - quite troublesome to you.
+client: Yes.
+therapist: Okay. And how long has this been going on?
+client: Well, I, uh, I've traced it back to a holiday I had in Egypt about four years ago. I had, um, a horrible bout of sickness and diarrhea, and, uh, and I don't think my stomach's ever been really right since then.
+therapist: Mm-hmm. Okay. Okay. So you think it began about four years ago after this holiday?
+client: Yes. Yes.
+therapist: Okay. And what's- what sorts of treatments have you tried for-for this before?
+client: Well, uh, Dr. Brown gave me some muscle relaxants at the beginning.
+therapist: Mm-hmm.
+client: Um, but I've been to the health shop and-and they've been really helpful. They've given me lots of different, um, tablets and medicines-
+therapist: Right.
+client: - for different things. Um, no, oh, and Immodium.
+therapist: Right.
+client: I have Immodium in my handbag all the time, just in case. Yeah.
+therapist: Right. So, these different tablets that you've got from the-
+client: Hmm.
+therapist: - the herbal shop-
+client: Hmm.
+therapist: - how are you taking them?
+client: Oh, well, different tablets, you know, I don't have the same problem every day-
+therapist: Right.
+client: - so I'll take some tablets for certain, uh, symptoms, and-
+therapist: Right.
+client: - other tablets for other things.
+therapist: So, am I- am I right in thinking you perhaps decide on a day-to-day basis-
+client: Hmm.
+therapist: - what you're gonna take-
+client: Hmm.
+therapist: - depending on what your stomach's doing?
+client: Yeah.
+therapist: Okay. Okay. And what about tests? Have you had any tests for these problems?
+client: Yes, uh, I had, uh, in the early days, I had a gastros-gas-- What are they called?
+therapist: A gastroscopy.
+client: That's it. Yes.
+therapist: You got the tube down-down from the top?
+client: Yes. Yeah.
+therapist: Okay.
+client: Um, and at the same time I had a barium enema.
+therapist: Right.
+client: That was very uncomfortable.
+therapist: Okay.
+client: Um, but, um, no, I've tried-- Well, you-- I don't think he's tried enough tests because he said after that, that they didn't find anything-
+therapist: Right.
+client: -and he-he's-he's just not sent me for anymore. That's it now-
+therapist: Right.
+client: - as far as he's concerned. Sent me back to the doctor.
+therapist: Right. It sounds as though you're-you're not happy with that.
+client: Well, you know, I think that actually, the NHS are running out of money, aren't they? And he's-
+therapist: Right.
+client: - decided that I've had enough tests.
+therapist: Right.
+client: And, um, you know, if you go on the Internet-
+therapist: Mm-hmm.
+client: - there's loads of tests that he could have sent me for.
+therapist: Right.
+client: Um, if I had a bit more money, I'd go private.
+therapist: Right.
+client: I just don't think he's got to the bottom of it.
+therapist: Right. So you feel as though actually, enough hasn't been done in the way of-of tests?
+client: No, he's not. There's loads more he could do. I'm sure.
+therapist: Right. Okay. It sounds like you-you've had these problems now for about four years.
+client: Mm.
+therapist: You've-you've got a lot of various symptoms in your stomach.
+client: Mm.
+therapist: Um, you've tried a lot of tablets. Some prescribed, some herbal remedies-
+client: Mm.
+therapist: - and you've had some investigations, but you're not entirely happy that-that you haven't been investigated thoroughly enough.
+client: Yeah.
+therapist: Is that- is that about-
+client: I'd say so, yes.
+therapist: - if I got the story right.
+client: Yes.
+therapist: Okay. And can I ask you, Barbara, how-how is all of this affecting you day-to-day? How's-how's it affecting your life?
+client: Uh, well, it's had quite-quite a big impact. Um, I mean, the first thing, the biggest thing, I suppose, is that I-I went from being full-time to part-time at work.
+therapist: Mm-hmm.
+client: I just couldn't sit all day comfortably.
+therapist: Right.
+client: Um, and so I went part-time, but in the end, I, uh, about a year ago, I stopped work altogether.
+therapist: Right. Right.
+client: Um, I miss that.
+therapist: Right.
+client: I miss the girls. We used to, uh, we used to go out at least once a week.
+therapist: Right.
+client: To the pictures or for a drink. That's one thing.
+therapist: Sounds as though that's something you quite enjoyed.
+client: Yeah, so I-- Yes. Yes, we used to have a laugh.
+therapist: Right. Okay.
+client: Um, I used to go to Swing and Shape. I used to go to an exercise class-
+therapist: Mm-hmm.
+client: - that was, um, I miss the exercise, actually. That was, um, once a week, but you know, the thing was I wasn't comfortable, never felt quite right doing all this exercise. I was always worried I was gonna be taken short or-- So I stopped that.
+therapist: Right.
+client: Um, then-- Well, my husband and I used to go out for meals.
+therapist: Mm-hmm.
+client: That's another thing we don't do anymore now.
+therapist: Right.
+client: Um, mm. Yeah, it's quite a few things, really.
+therapist: Yeah, it does- it does sound as though over the last few years your life has really changed-
+client: Mm.
+therapist: - quite a lot because of these symptoms.
+client: Yes.
+therapist: It sounds- it sounds like you're doing the review of the things that you used to do.
+client: Mm.
+therapist: Right.
+client: Mm.
+therapist: So, what is it you'd spend your average day doing now?
+client: Well, I potter around the house-
+therapist: Mm-hmm.
+client: - um, I spend perhaps a little bit too much time watching. I've got a bit hooked on daytime television, I have to say.
+therapist: Mm-hmm.
+client: Um, they draw you in, don't they?
+therapist: They certainly do.
+client: Um, I read a bit-
+therapist: Mm-hmm.
+client: - the old magazines, but, uh, generally, I'm at home.
+therapist: Right.
+client: Yeah.
+therapist: Okay. Okay. And have there been any times over the last four years that you've noticed any significant changes in your symptoms? For example, have there been any times when things have been better for you?
+client: Um, well, last year, um, my son got married-
+therapist: Right.
+client: - and I-I have to say I was worried that, um, that I wouldn't be able to cope with it.
+therapist: Mm-hmm.
+client: That I-I wouldn't be feeling well enough, but surprisingly enough, um, I was in good form, and I think it was about three weeks in the summer, getting ready for it-
+therapist: Mm-hmm.
+client: - and the whole hoo-ha of the wedding.
+therapist: Mm-hmm.
+client: But I was in good- in really good form for that. Yeah.
+therapist: Right.
+client: That was a good time.
+therapist: Right. And how were you tummy symptoms then?
+client: I hardly noticed them.
+therapist: Right. Okay.
+client: Yeah, it, uh, it seemed to, uh, clear up.
+therapist: Right. Right.
+client: Which was good.
+therapist: Right. That's interesting.
+client: Mm.
+therapist: And are there any times when your-your tummy symptoms bother you more? Seem particularly bad?
+client: Um, well, it's- I'm-I'm having a bit of a bad patch at the moment.
+therapist: Right.
+client: It's particularly, um, uncomfortable. Um, I have to say I do notice it when my husband's away. He-
+therapist: Right.
+client: - he travels with his job, and he-
+therapist: Right.
+client: - can be away a couple of times a month.
+therapist: Uh-huh.
+client: Um, and that's not-- It-it's very often not good then, I have to say.
+therapist: Right. So you notice it's a bit worse when your husband's not around? Okay.
+client: Mm. Maybe I'm thinking about it a bit more, I don't know, when he's not there.
+therapist: Right. I know you've been seeing Dr. Brown about this for the last few years.
+client: Mm.
+therapist: What is it that he's said that he thinks might be wrong with you?
+client: Well, he's-he thinks it's all in my head.
+therapist: Right.
+client: You know, he's- he says it's stress.
+therapist: Right. Okay.
+client: Mm.
+therapist: And what do you think?
+client: Well, I mean, it can't all be in my head. I get too much physical pain-
+therapist: Right.
+client: - for it to be in my head. I mean, it's real. It's-it's real pain.
+therapist: Mm-hmm.
+client: Um—
+therapist: And have you had any thoughts yourself about what you think might be causing it?
+client: Well, I mean, I-I did think that perhaps it was an infection that hadn't cleared up-
+therapist: Mm-hmm.
+client: - in the early stages, but, um, I think, um, I-I mean, sometimes I think it's IBS. A friend of mines has got that and it sounds similar, and then-
+therapist: Right.
+client: - other times I'll think, "I wonder if it's an ulcer."
+therapist: Right.
+client: Um, on a really bad day, I start to think it might be cancer.
+therapist: Right.
+client: Um, my mother-in-law- my mother-in-law died of cancer last year and she had a, um, a growth that-
+therapist: Mm-hmm.
+client: - the-the doctor didn't investigate.
+therapist: Right.
+client: But by the time they'd found it, it was the size of a football-
+therapist: Oh, dear.
+client: - and it was- it was too late to operate then.
+therapist: Right. Right.
+client: So, you know, when I go to bed at night now, um, I just feel to make sure there's nothing different going on.
+therapist: Right.
+client: And, uh, yeah, I worry about that.
+therapist: So you're- you-you're kind of prodding, having a feel at night?
+client: Oh, yes.
+therapist: To see if you can feel anything?
+client: Yes.
+therapist: Right.
+client: I just want to make sure there's nothing changing down there, you know?
+therapist: Right. Okay.
+client: Mm.
+therapist: Okay. So just to-to make sure that I've got the-the story straight, you've-you've seen Dr. Brown for a couple of years.
+client: Mm.
+therapist: You've-you've tried a variety of medications-
+client: Mm.
+therapist: - some prescribed, some-
+client: Mm.
+therapist: - from the-the herbal shop. None of them really made a great deal of difference. You've had some investigations-
+client: Mm-hmm.
+therapist: - but you perhaps feel you've not had enough investigations. And at times, you worry that this could be something quite serious like a-
+client: Mm.
+therapist: - a cancer. Is that-- Have I got the-
+client: Yes.
+therapist: - story right?
+client: Yes. Yeah.
+therapist: Okay.
+client: I'd say so.
+therapist: Okay. Barbara, what was it that you were hoping that I'd do for you today?
+client: Well, I thought, you know, you're a new doctor here-
+therapist: Mm-hmm.
+client: - and you've just finished your medical training. I wondered whether, you know, with new eyes and a new way of looking at-at the problem-
+therapist: Right.
+client: - um, you-you probably know about different tests, new tests, that my doctor doesn't know about, you know, new developments.
+therapist: Right.
+client: So perhaps you could send me for some different tests.
+therapist: Right. Right. So you were hoping that I'd send you for more tests?
+client: Mm.
+therapist: Okay.
+client: Well, I think there's-there's got to be something that a test might-
+therapist: Right.
+client: - might reveal.
+therapist: Right. Okay. Well, I think, Barbara, having-having heard your story, and heard about the symptoms, I'm not sure that actually sending you for more tests at this point would be the most useful thing that we could do for you. And the reason for that is because you've-you've had some of the main investigations in the last couple of years, and-and they've not shown anything. And your symptoms haven't really changed that much. So it's very unlikely that if we were to send you for more tests now that-that they'd show anything different than what we already know. So a bit-- I think it would be a waste of time for you to go for more tests.
+client: So-so like, do you think it's all in my head then? You're gonna be like Dr. Brown. You think I'm imagining all of this?
+therapist: Uh, no. I think that you clearly have pain, and clearly you have lots of physical symptoms, and they're clearly getting in the way of-
+client: Mm.
+therapist: -your life and causing you a lot-
+client: Mm.
+therapist: -of disability.
+client: Mm.
+therapist: I guess- I guess the way I think about these things is that they're not necessarily either all in the mind or all in the body.
+client: Mm.
+therapist: Sometimes these things can go together. Uh, I guess I'm thinking about how you told me that last year, when your son got married, uh, and you were very busy-
+client: Mm.
+therapist: - and quite happy, that somehow your symptoms seemed less.
+client: Mm.
+therapist: And, uh, when your husband's away, which is something you don't like very much, sometimes, somehow, your symptoms then will seem greater. So, I guess what I'm wondering, Barbara, is if there might be some kind of a link with you between how you're feeling in your mind, and what's going on in your life, and-and how much your symptoms trouble you. Do you think that's a possibility?
+client: Well, I can't see that my mind can be causing this amount of pain.
+therapist: Mm. I'm not saying that the pain's in your mind. Um, I guess what I'm saying is that sometimes the way that we feel, and the way that our lives are going, can impact how we notice our symptoms. Given that we've tried medication for you, and we've tried investigations, and we've drawn a blank really, with those, none of those have really helped you-
+client: No.
+therapist: - I guess I'm wondering whether now it would be a good idea to try a different approach to your problems.
+client: What-what sort of approach?
+therapist: Well, I guess, thinking a little bit about those other areas of your life, um, uh, I'm thinking about the fact that over the last four years, your life's really changed. It seems to have really shrunk down.
+client: Mm.
+therapist: And it sounds as though you're not doing lots of the things that you used to do. That you-
+client: No.
+therapist: - used to get pleasure out of. Is that right?
+client: Well, I just can't do them.
+therapist: Yeah.
+client: I can't- I can't do them anymore.
+therapist: Yeah. And I guess I wonder-- Uh, it sounds as though you've-you've dropped doing those things because you felt you couldn't do them, but I wonder if, in a funny way, what's happened is the fact that you're not doing those pleasurable things now, has kind of fed into you feeling-
+client: Mm.
+therapist: - unhappy with the way that-that your life is at the moment. And-and I guess I wonder whether that can then make your symptoms worse for you.
+client: Oh, I don't know.
+therapist: Mm.
+client: I don't know.
+therapist: Well, I guess what I'd be wondering is whether one of the approaches we need to be using now is thinking about what you do with your life, and what you do with your day, and maybe trying to bring back some of those pleasurable things, you know, even if it's just meeting up-
+client: Mm.
+therapist: - with your-your female friends once a week, and whether actually doing those sorts of things might generally-
+client: Mm.
+therapist: - improve your quality of life. I'm also thinking about the tablets that you're taking.
+client: Mm-hmm.
+therapist: And the fact that you-you seem to be taking quite a lot of them, and I'm wondering whether it's worth, though, sitting and looking at them and-and maybe trying to rationalize them a little bit, and really decide which are helping you, which are doing nothing, and which may actually be making some of your symptoms worse, I guess.
+client: Hmm. Yeah.
+therapist: What would you think about trying that slightly different approach for say-say two or three months, just to see whether or not it makes any difference?
+client: Well, two or three months is a long time if there is something going on. I mean, that's what happened to my mother-in-law, you know.
+therapist: Right.
+client: They-they left her and-
+therapist: Mm-hmm.
+client: - didn't spot it and—
+therapist: Well, I guess if we- if we did decide to-to work together like this-
+client: Mm-hmm.
+therapist: - in this new approach, I'd be seeing you regularly. We can keep an eye on your symptoms, and if they change, then we can investigate as appropriate. But if they stay the same, then, you know, we can be-
+client: Mm.
+therapist: - pretty clear that there's nothing new happening that-that we're missing.
+client: Mm.
+therapist: How would that sound?
+client: So, uh, what are you saying then? That I should come back and see you?
+therapist: I think that would be a good idea. I think we've only just begun to talk about it-
+client: Mm.
+therapist: - and I think perhaps you need to have a bit of time to think about it and then perhaps come back. Perhaps if you're booked in for a double slot next week, and that would give us a good chunk of time to think about this new approach.
+client: Mm-hmm.
+therapist: And perhaps if you could also bring your-your tablets in or-or make a list of them, we can look at what you're taking and perhaps go from there. How would that sound, Barbara?
+client: Okay. Well, uh, to make an appointment for next week.
+therapist: Yeah.
+client: And come and see you again-
+therapist: Yes.
+client: - and talk about it a bit more?
+therapist: Yes. I think so.
+client: Okay.
+therapist: I think that would be a good- a good start.
+client: All right. And I'll make a list of the tablets that I'm taking.
+therapist: Yeah.
+client: I won't bring all the bottles down.
+therapist: Okay. All right.
+client: Okay. All right. I'll do that.
+therapist: So, shall I see you again next week?
+client: I'll make an appointment for next week. Yes.
+therapist: Okay. All right. Thank you, Barbara.
+client: Okay. Thank you.
+therapist: Bye-bye.

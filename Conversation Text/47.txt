@@ -1,0 +1,15 @@
+therapist: Hey, Mary, how are you?
+client: Fine.
+therapist: Um, I noticed some yelling going on in the house, what's going on?
+client: It's not really any of your business.
+therapist: So nothing you want to talk about right now?
+client: Mm-hmm.
+therapist: My guess is you're probably involved in that.
+client: Hmm.
+therapist: Okay, I understand that sometimes if you're feeling angry or upset about something, the last thing you want to do is share with your caseworker at that time, but, um, you know I am here for you, and if there's anything you ever want to talk about or share with me, that is something that I would love to-to here, and I'll just see sit here and listen if that's something that you would find helpful.
+client: Okay.
+therapist: Okay. You know what? I-it seems like things have been really a struggle for you lately, and I have noticed that you haven't been in the best mood, so I'm really- I am concerned about you, but again, it's your choice if that's something that you feel like you want to share with me.
+client: Okay.
+therapist: All right, well, you know I will be by later today. If, um, you have any questions or if you want to talk, um, otherwise, again, I'll stop by and call you later.
+client: Okay.
+therapist: All right, take care, bye.

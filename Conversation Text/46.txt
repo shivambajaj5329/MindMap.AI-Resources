@@ -1,0 +1,60 @@
+therapist: So, Jacob, everything looks very normal on your physical exam. Do you have any questions for me?
+client: No.
+therapist: Okay. I see that you filled out our, um, alcohol and drug questionnaire. Is it okay if we go through this together?
+client: Sure.
+therapist: Okay. What we talk about is confidential. I only tell your parents about what we say if you give your permission or if I become worried about a danger to-to you or to someone else. Does that make sense?
+client: Yeah.
+therapist: Okay. So, let's take a look. So I see that you have marked that you sometimes use alcohol, and that you have used alcohol to relax, feel better about yourself or fit in. Do you mind telling me a little bit more about your alcohol use?
+client: It's not a big deal. Sometimes with my friends, we'll drink a few beers and when we're hanging out or when we're at a party, and sometimes rum and cokes.
+therapist: Okay, so how many do you usually have at a time?
+client: Um, three or four, probably. I don't keep track.
+therapist: Okay. And how often?
+client: Um, probably about once or twice a month.
+therapist: Okay. So, you drink with friends, sort of three or four beers or mixed drinks, one or two times a month. How long have you been doing that?
+client: Probably since last October.
+therapist: So, for about six months. I'm curious. What do you like about drinking alcohol?
+client: What do I like about it?
+therapist: Yeah.
+client: Um, I don't know. It's just fun to drink with my friends, like when we're at a party at someone else's house, and we're drinking with other people that we don't know. It tastes good.
+therapist: Okay. So, it sounds like you feel relaxed and have fun when you're drinking with friends and you like the taste.
+client: Mm-hmm.
+therapist: Okay. I'm also curious, are there any parts about your alcohol use that you don't like?
+client: Um, I don't like when I get sick in the mornings 'cause of hangovers and-
+therapist: Mm-hmm.
+client: -when I start throwing up, that's not- I don't like that.
+therapist: Have you ever experienced a-a blackout, like when you've been drinking and you wake up and you don't remember what happened?
+client: No, but that happened to someone I know, though.
+therapist: Okay. And have you had any problems related to-to your drinking alcohol, like at home or school or somewhere else?
+client: Um, one time I missed first period of school 'cause I had a hangover and I was late getting up.
+therapist: Mm-hmm.
+client: Mm, mom got mad at me 'cause I wouldn't get out of bed and she said she knew I had a hangover.
+therapist: Mm-hmm. Have you told your mother that you drink with your friends?
+client: No, but I got grounded for two weeks after that. [chuckles]
+therapist: So more negative things about your drinking, like getting into trouble with your mom and missing a class at school when you had a hangover?
+client: Yeah, but I only missed school once.
+therapist: Okay. I see on the questionnaire that you have not ridden in a car with someone who's been drinking and you haven't driven a car, um, after you've been drinking. Is that correct?
+client: Yeah.
+therapist: That's great. And I hope you continue to avoid those things. As your doctor, I want you to know that I'm concerned about your drinking. When teens drink, things can go wrong, like injuring yourself. Even when you don't drink too excess, though, your brain is still developing and is very sensitive to the effects of alcohol.
+client: Okay.
+therapist: That's why I recommend that all my adolescent patients not drink at all. So if you were thinking today about how ready you feel to stop drinking alcohol on a scale of zero to ten, with zero not being ready at all and ten feeling very ready, what number would you pick?
+client: Um, probably a five.
+therapist: A five? So, I'm curious. Why didn't you pick a lower number like a two or three that would mean you're only a little bit ready to stop drinking?
+client: Well, I guess I'm just tired of getting in trouble.
+therapist: Okay. What could you do to avoid getting into trouble?
+client: Um, not drink.
+therapist: [chuckles] Have you ever tried not drinking or stopping drinking?
+client: No, not really.
+therapist: Okay. What some people your age do is try stopping drinking for a period of time just to see what that feels like.
+client: I could probably do that.
+therapist: So, how long do you think you could go without drinking?
+client: I don't know.
+therapist: Do you think you could go two months without drinking?
+client: Yeah, probably.
+therapist: Okay. What things would make it easier for you to not drink?
+client: Um, I could probably drink something else when my friends are drinking, like just coke.
+therapist: Anything else to make things easier for you?
+client: I can probably hang out with some of my friends who don't drink or inviting them to parties and having fun 'cause not everyone drinks at parties.
+therapist: Okay. Is there anybody in your life that you can talk to about this, who give you some support for not drinking?
+client: Yeah. The-- My friends who don't drink would probably be happy that I'm not drinking either and yes, they'd support me.
+therapist: Great. So you've come up with some reasons to stop drinking, like having hangovers and throwing up and getting into trouble. And you've developed some strategies to-to try to not drink, like spending more time with friends who don't drink or having non-alcoholic drinks when people around you are drinking alcohol. I think that's a great plan. I'm really proud of you for giving this a try. How about if I have you make an appointment for two months from now and then I'll see you back and we can see how things are going?
+client: Okay.

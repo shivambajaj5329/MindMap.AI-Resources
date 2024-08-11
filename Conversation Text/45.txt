@@ -1,0 +1,52 @@
+therapist: Hi, Mary, how was your day?
+client: Fine. Where do you want me to sign?
+therapist: Well, you can sign right there. Seems like you're not in the mood to talk today.
+client: Not really.
+therapist: Okay. You know it seems like you had uh, a day at school. I noticed that uh, you missed your first hour of class today as well.
+client: Yeah, whatever. I just, yeah.
+therapist: It seems like that doesn't-isn't really a concern for you at this time?
+client: It's just like the same thing every day like, I don't really know why. Like um, so I signed your paper, why are asking me all these questions?
+therapist: So you're kind of wondering what the point of these visits are, me coming to your house.
+client: Yup.
+therapist: Okay. Would it be okay with you if I kind of explained again kind of what this program is about?
+client: I guess so.
+therapist: You know that I will be stopping by every day just to make sure that you're here and following and-and responding to your GPS and making sure that that's charged up every day and that, um, if you're leaving the house without permission, that we will be aware of that as well. Um, and kinda just to get to know you as well when I come for these visits 'cause, um, you know that's kind of my role as your caseworker is just to-to monitor your day-to-day stuff.
+client: So you just wanna know my business?
+therapist: It does kinda come off as nosy at times I'm sure.
+client: Mm-hmm.
+therapist: I know uh, some clients have struggled with understanding that I really do care about you. And you know that when we first met that you had expressed a goal of, um, getting off this program as quickly as possible.
+client: Mm-hmm.
+therapist: So I know just kinda being here when you need to be here is one way of doing that.
+client: Mm-hmm.
+therapist: Yet you still can seem kind of annoyed that this is something that we still have to do.
+client: Yeah. I mean I guess I'll be here if I have to be but I can't make any promises that I won't leave.
+therapist: So you're still kinda concerned that you're not quite sure if you will be able to do this successfully?
+client: No, 'cause this just kinda feels like why do you need to know my business? Why do you care?
+therapist: Um, and-and I'm sure that does seem kind of confusing too 'cause I'm sure you've got a lot of other people involved in your life right now with the courts I'm sure, I know that your mom is concerned about you as well and there's this one other person kinda checking in on you as well.
+client: Mm-hmm.
+therapist: I'm sure it's pretty overwhelming.
+client: It's just like a lot.
+therapist: Mm-hmm.
+client: And you feel like there's all these rules.
+therapist: Yeah. And there is and I'm sure that it is really struggling at times too.
+client: Mm-hmm.
+therapist: Um, and I know some clients have expressed just really valuing their freedom. They didn't realize how much they really valued that until it was gone.
+client: Right, I think that's the only thing that I wish I had now.
+therapist: Your freedom?
+client: Mm-hmm.
+therapist: What would be some ways you could go about being able to get your freedom back?
+client: I guess like your sign your papers.
+therapist: Mm-hmm, yup that's one step, just sign the papers when I come by. Even though it seems like it's kinda annoying at times, it is something that we're contracted to do.
+client: Mm-hmm.
+therapist: What are some other ways you feel like you can get your freedom back?
+client: Not do this again so that I don't ever have to be here and be stuck in my house and all of these people coming to visit me and know my business.
+therapist: So that's something that will motivate you to not do what you did, not commit that crime, and, um, 'cause you do not like when we stop by?
+client: Yup.
+therapist: That's okay. Well, I know that you are making an effort. I do appreciate then and when-when I do stop by that you still sign the paperwork even though you feel like it's annoying at times. So, thank you for, uh, at least doing that.
+client: Mm-hmm.
+therapist: Okay. Um, before I leave today is there anything else you'd like to add or-or need to share with me?
+client: Not really.
+therapist: Okay, well just so you know, again, I do have to come back so I'll see you later today then.
+client: All right.
+therapist: All right.
+client: Bye.

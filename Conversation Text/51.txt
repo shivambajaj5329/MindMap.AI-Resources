@@ -1,0 +1,16 @@
+therapist: Tell me what you know about the flu shot?
+client: Uh, well, I know the flu can be pretty bad, but I'm in pretty good health, so I don't really feel like I need it. Uh, it's kind of just more for old people, right?
+therapist: Mm, um, so you're thinking it's really just for people who are-are vulnerable to illness?
+client: Yeah.
+therapist: Would it be okay if I shared a little more information with you about the flu vaccine and the importance of it?
+client: Okay.
+therapist: So you're right that you're young and healthy and you don't have a lot of complicating illnesses that mean that you would probably do okay if you got the flu. But we do know that the elderly are more at risk, pregnant people, babies are at risk of having serious complications from the flu, and by you getting the vaccine, that helps prevent you from passing it on to other people.
+client: Okay.
+therapist: So having shared that information with you, how do you feel about the idea of the flu vaccine?
+client: Well, my grandparents probably wouldn't handle the flu very well-
+therapist: Mm.
+client: -and my co-worker is pregnant too.
+therapist: Mm-hmm.
+client: So-so, yeah, I guess, I should, uh, get it for their sake.
+therapist: Okay, so you've got some people in your life who are vulnerable to possible illness, and making this decision to get the flu shot will help protect them.
+client: Yeah.

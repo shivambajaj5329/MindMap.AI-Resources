@@ -1,0 +1,41 @@
+client: I just feel helpless about this whole deal.
+therapist: You're hopeless about what's going on.
+client: Mm. I just feel helpless about this whole deal.
+therapist: You seem at a loss of where to go from here.
+client: No one wants to help me.
+therapist: You feel like people aren't willing to help.
+client: No one wants to help me.
+therapist: You feel alone.
+client: Mm-hmm. I really shouldn't have done it.
+therapist: You realize it's something you shouldn't have done.
+client: Mm-hmm. I really shouldn't have done it.
+therapist: You're feeling regretful.
+client: Mm-hmm. I couldn't help myself.
+therapist: Uh, it's something that just happened.
+client: I couldn't help myself.
+therapist: You're nervous that you've lost control of your behaviors.
+client: It's actually been a fabulous week.
+therapist: You've really had a good week.
+client: It's actually been a fabulous week.
+therapist: You seem excited about that.
+client: Mm-hmm. I know who to hang out with, I'm not stupid.
+therapist: You definitely know how to make good decisions.
+client: I know who to hang out with, I'm not stupid.
+therapist: You know that, um, positive peer influences have been helpful for you.
+client: Mm-hmm. I'm letting the whole family down. They had such high hopes for me.
+therapist: You feel like you're letting your family down.
+client: Mm-hmm. I'm letting my whole family down. They had such high hopes for me.
+therapist: You feel like you've been a disappointment for them.
+client: Mm-hmm. This is not what I want for my life.
+therapist: This is not what you've envisioned.
+client: This is not what I want for my life.
+therapist: You're willing to take steps to improve on that.
+client: Mm-hmm. I really want to get off the program.
+therapist: You don't want to be here.
+client: I really want to get off the program.
+therapist: You seem motivated to follow the rules.
+client: Mm-hmm. I still crave smoking, even though I've stopped.
+therapist: It's something that's always on your mind.
+client: I still crave smoking, even though I've stopped.
+therapist: It takes a lot of, um, strength to still not smoke, even though you're still craving.
+client: Mm-hmm.

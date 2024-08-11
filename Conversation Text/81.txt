@@ -1,0 +1,21 @@
+therapist: Did you like how your parents raised you?
+therapist: Tell me about how your parents raised you?
+therapist: Tell me about how you've been feeling?
+client: Okay. I guess I've been getting bigger.
+therapist: Mm, what's that like for you?
+client: Uh, scary I guess.
+therapist: So you're feeling uncomfortable with changes in your body?
+client: Yeah. I-I know there's something in there, I just don't know much about him.
+therapist: Mm.
+client: I know you want me to see the doctor, I haven't called yet.
+therapist: Why do you think it makes you so hesitant to call?
+client: I don't know. It seems overwhelming to me.
+therapist: What about it seems overwhelming?
+client: Well, I hate making phone calls and I know I need to fill out all this paperwork. I don't know how to get there and I hate needles.
+therapist: Mm. So some of your feelings, uh, of being overwhelmed or about the logistics of the appointment, and some of it is you just don't like medical appointments and medical people?
+client: Yes.
+therapist: How can I help you with these things?
+client: Can you help me make the call?
+therapist: Sure, we can do that together.
+client: Can you go with me to the appointment.
+therapist: I can try. I can't guarantee because it depends on my schedule, but we can brainstorm about ideas on who can go with you to support you so you feel better about attending.

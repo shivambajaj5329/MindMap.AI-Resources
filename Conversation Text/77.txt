@@ -1,0 +1,43 @@
+therapist: Hi, Mrs. Smith. It's really nice to see you again. I see you're back to follow up on the stroke you had. How are things going for you at the rehab facility?
+client: [signs] Kind of slow.
+therapist: Kind of slow?
+client: Yeah.
+therapist: What kind of things have you been in your rehab?
+client: Oh, they have me doing all kinds of things in different machines and stuff. Yeah, it hurts.
+therapist: It hurts? Oh, I'm sorry to hear that. Where are you having pain?
+client: Well, just about every joint like especially my knees. They're really-- They have me doing some leg things that-that-that is it really necessary?
+therapist: Well, you know, I-I understand that pain is hard to work through but a lot of time when you're having rehab after a stroke, that pain is telling you that your muscles and joints are starting to work again. So you can kind of think of it as a positive way to, you know, know that your-your body's getting back to normal.
+client: Okay.
+therapist: But what are your goals for the long term?
+client: I wanna go home.
+therapist: Oh, of course, of course. And what are the things that you'd like to be able to do once you get home?
+client: Everything. I wanna- I wanna, play with my dog. I miss my dog. I wanna cook for myself. I'm a very independent person and I wanna do things for myself.
+therapist: Yeah, yeah. And so that's a very important goal to be able to get back home, to be able to get back to your independence. Have you thought about what it might take to get there?
+client: Um, I guess the rehab.
+therapist: Mm-hmm. Yeah, you're absolutely right. And it's also going to be very important that once you're home, you're able to continue on a regular activity program. Have you thought about what that might look like?
+client: Not really.
+therapist: Not really, okay. Well, have you ever heard of something called Tai Chi? Is that a familiar term to you?
+client: Oh, yeah.
+therapist: You've heard of it?
+client: Uh, I have.
+therapist: Okay.
+client: I have a friend who, uh, does it and she just raves about it. She loves it.
+therapist: Well, you know, Tai Chi is one of the best ways to get your balance back after you've had something like a stroke. And it's also really good for preventing falls. And if you wanna be home and you wanna be doing the things you wanna do and going for walks with your dog, it's very important to make sure that you don't fall 'cause that would cause more problems down the road.
+client: Absolutely. I do not want to fall, for sure.
+therapist: So what do you think about Tai Chi? Is that something you think you might be able to try sometime?
+client: Well, I-I hadn't really thought about it, but yeah I guess, I guess.
+therapist: Mm-hmm.
+client: Like I said, my friend talks about it and-and it's very pretty. I've seen pictures, you know.
+therapist: Yeah, yeah, yeah. Well, it's not that easy to get started. You do certainly have to have some motivation to want to do it. Um, and when you first start, oftentimes you do feel a little wobbly or a little insecure.
+client: Well, I don't see how I could do it. I-I'm still in a walker, you know.
+therapist: Yeah, yeah, I understand. So there are lots of places around that have it. Your local senior center would have it. And what I recommend is that you start by doing it in a chair. Just sitting in the chair.
+client: I could?
+therapist: You could. You can talk to the instructor and that way you won't fall, you'll feel confident and you'll start to learn some of the moves. And then gradually over time, as you get a little bit better at doing the moves in a chair, you can start to stand up, use the chair to lean on, and then eventually, you'll be able to get to the point where you can do it on your own.
+client: And you really recommend this?
+therapist: You know, it cuts your risk of falls in half. It also helps to reduce pain although that's not a short-term benefit, you do have to stick with it for at least three to six months to start have it help reduce your pain. But it does have a number of things that I think would get you to your goals of being home and able to play with your dog and doing your own cooking and things like that.
+client: You do Tai Chi?
+therapist: I do Tai Chi. I do it three days a week and it's really helped my balance as well.
+client: Oh, okay. Well, yeah. Um, listen, anything that's going to get me home and if you do it and you recommend it, I'll try it.
+therapist: All right. Well, I'm delighted. It's a pleasure to see you again. I hope your rehab continues to go well and we can talk some more about this at our next visit.
+client: Okay, okay.
+therapist: All right. Thank you for coming in.
